@@ -26,7 +26,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node ./dist/app.js",
-    "dev": "ts-node --esm ./src/app.ts"
+    "dev2": "ts-node --esm ./src/app.ts",
+    "dev": "ts-node --esm ./dist/app.js"
   },
   "dependencies": {
     "@pinecone-database/pinecone": "^0.0.10",

@@ -1,0 +1,3 @@
+{
+  "text": "Sure! Here's an example of a Next.js component that renders an h1 tag with the text \"Starmorph\":\n\n```jsx\nimport React from 'react';\n\nconst Starmorph = () => {\n  return <h1>Starmorph</h1>;\n};\n\nexport default Starmorph;\n```\n\nYou can use this component in your Next.js application by importing and including it in your desired page or layout component."
+}
